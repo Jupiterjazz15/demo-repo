@@ -1,7 +1,7 @@
 # HEARDER 
 
-Text 1
+TEXT 1
 
 ## SUBHEADER
 
-Text 2
+TEXT 2
